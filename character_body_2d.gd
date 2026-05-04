@@ -8,6 +8,7 @@ var tiene_pelota = false
 var pelota = null
 var pos_inicial = Vector2(-200, 100)
 var celebrando = false
+var direccion_mirada = Vector2(1, 0)
 
 func _ready():
 	global_position = pos_inicial
@@ -36,21 +37,18 @@ func _physics_process(delta):
 			$AnimatedSprite2D.flip_h = false
 		vx = vx + 1
 
+	if vx != 0 or vy != 0:
+		direccion_mirada = Vector2(vx, vy).normalized()
+
 	if tiene_pelota and pelota != null:
-		var offset_x = -20 if $AnimatedSprite2D.flip_h else 20
-		var offset_y = 20 if $AnimatedSprite2D.flip_v else 0
-		if vy < 0: offset_y = -20
-		velocidad = 150
-		
-		pelota.global_position = global_position + Vector2(offset_x, offset_y)
+		pelota.global_position = global_position + (direccion_mirada * 25)
 		
 		if (Input.is_physical_key_pressed(KEY_SPACE) or Input.is_physical_key_pressed(KEY_E)) and esta_pateando == false:
-			var direccion_mouse = (get_global_mouse_position() - global_position).normalized()
 			var fuerza = fuerza_pateo if Input.is_physical_key_pressed(KEY_SPACE) else fuerza_pase
 			
 			pelota.get_node("CollisionShape2D").set_deferred("disabled", false)
-			pelota.global_position = global_position + direccion_mouse * 40
-			pelota.golpear(direccion_mouse, fuerza)
+			pelota.global_position = global_position + (direccion_mirada * 40)
+			pelota.golpear(direccion_mirada, fuerza)
 			
 			tiene_pelota = false
 			pelota = null
@@ -74,8 +72,9 @@ func _physics_process(delta):
 			else:
 				$AnimatedSprite2D.play("Run-sinPelota")
 		
-	velocity.y = vy * velocidad
-	velocity.x = vx * velocidad
+	var vel_actual = 150.0 if tiene_pelota else velocidad
+	velocity.y = vy * vel_actual
+	velocity.x = vx * vel_actual
 	
 	move_and_slide()
 	
