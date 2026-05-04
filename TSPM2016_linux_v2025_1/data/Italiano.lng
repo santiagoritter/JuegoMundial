@@ -1,0 +1,507 @@
+THE SOCCER PLAYER MANAGER
+POR
+DIF
+CEN
+ATT
+Portiere
+Difensore
+Centrocampo
+Attaccante
+Settimana
+PORTIERE
+DIFESA
+CENTRO
+ATTACCO
+Classifica
+Risultati
+Partite
+Marcatori
+PT
+G
+V
+N
+P
+GF
+GS
+risultato
+veloce
+GIOCA!
+Serie
+A
+B
+C
+D
+Abilità Squadra:
+Portieri
+Difensori
+Centrocampisti
+Attaccanti
+Allena squadra
+Gestione tattiche
+Facciamo riposo
+Allena extra
+Giocatori comprati
+Stipendi
+Nuovi contratti
+Interessi
+Altre spese
+Giocatori venduti
+Incassi campionato
+Incassi coppa
+Sponsors
+Altre entrate
+Totale
+Bilancio corrente
+Limite di credito
+Finanze disponibili
+Giocatori comprati
+Giocatori venduti
+Possesso palla
+Tiri totali
+Tiri in porta
+Calci d'angolo
+Falli subiti
+Ammoniti
+Espulsi
+portiere
+maglia 1
+maglia 2
+maglia 3
+CARICA PARTITA
+SALVA PARTITA
+CARICA NOMI SQUADRE
+SALVA NOMI SQUADRE
+CARICA TATTICA
+SALVA TATTICA
+SELEZIONA TATTICA
+Nome File
+Giudizio Manageriale
+Siamo soddisfatti, stai facendo un ottimo lavoro!
+Il consiglio è soddisfatto!
+Il consiglio è felice!
+Siamo soddisfatti ma ci aspettiamo miglioramenti!
+Siamo preoccupati, la situazione deve migliorare!
+Il consiglio è molto preoccupato!
+Il consiglio trova la situazione vergognosa!
+Il consiglio sta valutando la tua posizione!
+Hai la piena fiducia del consiglio!
+La situazione è disperata. Devi fare qualcosa!
+Anno/Settimana
+Squadra
+Player-Manager
+O.K.
+Annulla
+CANCELLA
+Stai già usando questa tattica!
+Una pausa ci voleva proprio!
+E' permesso cambiare solo una tattica a settimana!
+Non possiamo permetterci una spesa così alta!
+Non puoi avere in squadra più di 24 giocatori!
+Perchè vuoi comprare un giocatore già tuo?
+Puoi provare a comprare solo due giocatori per settimana.
+Peccato, siamo stati eliminati dalla coppa!
+Peccato, siamo stati eliminati dalla coppa!
+Peccato, siamo stati eliminati dalla coppa!
+Peccato, abbiamo perso la semifinale!
+Abbiamo perso la finale! Ottimo risultato comunque!
+Bel risultato! Abbiamo superato il turno!
+Bel risultato! Accediamo al 3° turno!
+Buon risultato! Siamo nei quarti!
+Ottimo risultato! Siamo in semifinale!
+Risultato eccellente! Siamo in finale!
+CAMPIONI!! Champagne per i ragazzi!
+Purtroppo sei stato esonerato!
+Purtroppo siamo stati liquidati!
+<TEAM> vuole farti un'offerta per <GIOC>
+Problemi di folla a <TEAM>! Multa di <DATA>K!
+Accordo di sponsorizzazione di <DATA>K per <TEAM>!
+Siamo stati promossi in <DATA>! Il nostro nuovo limite di credito è <DATA2>K!
+Siamo stati retrocessi in <DATA>! Il nostro nuovo limite di credito è <DATA2>K!
+Attendere mentre vengono creati i dati di gioco
+Le Squadre
+Carica
+Salva
+Fatto
+Campionato - Settimana <DATA>
+<GIOC>, giocatore primavera, è stato promosso in prima squadra!
+Squadra
+Campionato
+Coppa
+Club
+Allenatore
+Mercato
+Tattiche
+Partita
+Opzioni
+Nuova Stagione
+Vincitori
+Finalisti
+Semifinali
+Quarti
+Records di Squadra
+ANNO  Div Pos  G  V  N  P  GF GS  PT
+Finanze
+entrate
+uscite
+ultima settimana
+questa settimana
+giocatori
+Percentuale di successo:
+Dimissioni
+Vuoi dare le dimissioni come manager di <TEAM>?
+SI!
+NO!
+Il morale è alle stelle!
+Il morale è ok!
+Sicuramente non è un problema di fiducia, mister!
+Non stiamo facendo del nostro meglio!
+Ci sono discussioni negli spogliatoi!
+I ragazzi sono un po' depressi!
+L'Allenatore
+Allena la Squadra
+Giocatore          ruolo nuovo
+riallena:
+Cancella
+Cambia Tattiche
+Lista Trasferimenti
+giù
+su
+Giocatore        età Squadra      serie
+D'accordo
+Hmmm...
+No Grazie
+Giocatori:
+1° turno
+2° turno
+3° turno
+Quarti
+Semifinali
+Finale
+Fase fin.
+Coppa
+Quarti di finale
+Semifinali
+Finale
+-e-
+-r-
+VS
+vel.
+vedi
+PARTITE IN CORSO...
+in casa contro <TEAM>
+fuori casa contro <TEAM>
+contro <TEAM>
+Ruolo
+Età
+Altezza
+Peso
+Velocità
+Agilità
+Energia
+Recupero
+Aggressività
+Morale
+Passaggio
+Tiro
+Contrasto
+Parata
+Basso
+Nervoso
+Buono
+Ottimo
+Eccell.
+Eccell.
+pres
+reti
+m.v.
+Cop
+A
+B
+C
+D
+Dati del giocatore
+Nome
+cm
+kg
+Abilità
+PREZZO
+Disponibile
+COMPRA GIOCATORE
+Storia
+Ruolo
+Età
+Contratto
+Valore
+Stato di salute
+Stato disciplinare
+Stato trasferimento
+Nega trasferimento
+Trasferisci giocatore
+Canc. trasferimento
+Stato del giocatore
+Il giocatore ha un'ammonizione
+Il giocatore ha <DATA> ammonizioni
+Squalificato per una giornata
+Squalificato per <DATA> giornate
+Infortunato per <DATA>
+In lista trasferimenti
+In lista trasferimenti da <DATA>
+Richiede il trasferimento
+Richiede il trasferimento da <DATA>
+Offri nuovo contratto
+anni
+NO!
+Smetti di essere un giocatore!
+Ora per smettere premi O.K., oppure clicca qui per annullare!
+Squadra
+Reti Giocatore          Squadra
+remake ispirato al gioco creato da
+Dino Dini e Steve Screech nel 1989
+Questo gioco è una riproduzione
+molto fedele del gioco originale,
+con l'aggiunta di nuove opzioni:
+ogni squadra ha la propria maglia,
+vari terreni di gioco, replay, 
+e molte altre novità...!
+Per le prossime versioni seguici su:
+INIZIA
+VENDI GIOCATORE
+COMPRA GIOCATORE
+OFFERTA
+PREZZO
+Nome
+Ruolo
+Età
+Abilità
+Disponibile
+ACQUISTA
+Cancella
+Accetta
+l'offerta
+Contro
+offerta
+ESCI
+I
+E
+R
+T
+C
+Giocatore          età ruolo nr status
+Nome tattica:
+Giocatore          ruolo nr
+LA FORMAZIONE E' INCOMPLETA!
+VUOI PROCEDERE LO STESSO?
+SI
+NO
+Le Formazioni
+una settimana
+settimane
+un mese
+oltre un mese
+oltre <DATA> mesi
+Falli subiti
+Tiri in porta
+Tiri totali
+Possesso palla
+è stato squalificato
+si è infortunato
+<GIOC> rientra dalla squalifica
+<GIOC> ha recuperato dall'infortunio
+<GIOC> richiede il trasferimento
+Settimana
+Anno
+P
+S
+A
+E
+Sost
+CALCI DI RIGORE
+T
+TS
+Suono ON
+Suono OFF
+Sostituisci
+Tattica
+Maglia
+Sostituzione per
+Cambio tattica per
+fatto
+Rimessa laterale
+Rimessa dal fondo
+Calcio d'angolo
+GOAL! -
+Records di Squadra
+Finanze Disponibili
+Giudizio Manageriale
+Fatto
+Il Club
+OPZIONI DI GIOCO
+Visualizza risultati altre partite
+Salva dati nella memoria interna
+Salva dati su supporto esterno
+FULLSCREEN partita automatico
+Salva la partita
+Questa è la versione demo! Per salvare la carriera e guardare i replay, scarica le versioni WINDOWS/MAC/ANDROID su:
+CONTINUA
+ESCI
+Italiani
+Inglesi
+Seleziona Nomi
+Nuovo Gioco
+Carica Gioco
+Dimostrazione
+Anno
+Squadra
+Player-Manager
+Età
+Ruolo
+GIOCA IN POSIZIONE
+GIOCA COME SQUADRA
+Versione per dispositivi android
+L'applicazione può accedere ad un supporto esterno. Cliccare "SI" per creare una cartella chiamata "<FOLDER>" dove sarà possibile salvare tutti i files di gioco. Cliccare "NO" per salvare i files nella memoria interna.
+-
+-
+-
+-
+-
+-
+CONTINUA
+Salva in Memoria
+Salva sul tuo account
+Seleziona il supporto su
+cui salvare i dati di gioco
+Nuova Versione FLASH
+Nuove funzionalità nella versione Flash!
+La nuova versione Flash permette ora di
+salvare la carriera, tattiche e replay.
+Nella versione completa è possibile anche
+editare le maglie e i nomi dei giocatori.
+Per poter sfruttare tutte le opzioni scari-
+ca le versioni WINDOWS/MAC/LINUX/ANDROID
+CONTINUA
+Questa è una versione beta in lavorazione, se trovi qualche bug o errore saremo molto felici se ce lo comunicassi su:
+Qualsiasi aiuto o contributo sarà ben accetto!!
+Dimostrazione Arcade
+Marcatore:
+R
+Calcio di rigore
+Fallo di <GIOC>
+<GIOC> ammonito!
+<GIOC> espulso!
+<GIOC> infortunato!
+CARICA REPLAY
+SALVA REPLAY
+Guarda Replay Salvati
+Punizione - distanza:
+Versione HTML5
+La versione HTML5 ha molte limitazioni.
+Esce:
+Entra:
+Questo gioco è il tributo ai classici creati da Dino Dini nel 1990. Questo progetto riproduce fedelmente la stessa grafica, sonoro e giocabilità della versione per Commodore Amiga. Nessuno sviluppatore originale è coinvolto nella realizzazione di questa versione, per il prossimo progetto di Dino Dini vai su: www.twitter.com/dndn1011 
+The Soccer Player Manager 2016 avrà nuove funzioni partendo dagli originali degli anni '90. Per le prossime versioni seguici su:
+1a
+2a
+3a
+4a
+5a
+6a
+7a
+8a
+9a
+10a
+11a
+12a
+13a
+14a
+15a
+16a
+17a
+18a
+19a
+20a
+21a
+22a
+---
+Controllo di palla
+Facile
+Normale
+Difficile
+Il Consiglio è lieto!
+Buon lavoro! Continua così!
+Il Consiglio si compiace!
+Il Consiglio è felice!
+Il Consiglio è soddisfatto, ma auspica un miglioramento!
+Il Consiglio è infelice!
+Il Consiglio è preoccupato. Le cose devono migliorare!
+Il Consiglio è sconcertato!
+Il Consiglio rileva la situazione attuale vergognosa!
+Il Consiglio considera la vostra posizione dubbia, date le circostanze attuali!
+Hai piena fiducia del consiglio!
+Siamo tutti al settimo cielo. Il morale è superlativo!
+Sicuramente non è un problema di fiducia qui Mister!
+Il morale è molto buono!
+Il morale è buono!
+Il morale è OK!
+Iniziano ad esserci dei dubbi tra i nostri giocatori!
+Non stiamo lavorando al meglio!
+La depressione si sta diffondendo tra i ragazzi!
+Sento molti mormorii spiacevoli negli spogliatoi!
+Il morale è terra!
+Ci sono scontri tra i nostri giocatori!
+Seleziona le opzioni iniziali
+Livello di difficoltà
+FACILE
+Sei un giocatore di 23-24 anni, gestisci una squadra da promozione e hai un ottimo budget per comprare giocatori
+NORMALE
+Sei un giocatore di 28-29 anni, la tua è una buona squadra che puoi migliorare comprando qualche giocatore
+DIFFICILE
+Sei un giocatore di 33-34 anni, devi impedire che la tua squadra retroceda in serie D ma hai pochi soldi a disposizione
+Scegli il Campionato
+Edita nomi giocatori
+CARICA NOMI GIOCATORI
+SALVA NOMI GIOCATORI
+Questo è un gioco di calcio manageriale gratuito liberamente ispirato ai giochi pubblicati da Anco: Kick Off 2 e Player Manager.
+The Soccer Player Manager 2016 è un'opera originale sviluppata dalla comunità di Kick Off World.
+Questo retrogame riproduce fedelmente la grafica 2D creata su Commodore Amiga da Steve Screech, con la stessa visuale dall'alto e azioni frenetiche.
+The Soccer Player Manager 2016 è ancora in fase di sviluppo e sarà aggiornato regolarmente, iscriviti ai nostri social da qui:
+Nuovo nome
+Congratulazioni!! Abbiamo vinto il campionato!!
+ATTENZIONE!
+Il gioco è ancora in fase beta: tutti i formati di salvataggio sono soggetti a cambiamenti e potrebbero rivelarsi incompatibili con le prossime release!!
+Inverti PAD
+File non compatibile
+Velocità di gioco
+-NO CONT-
+Europa
+Asia-Oceania
+Africa
+Nord America
+Sud America
+Extra Teams
+Champions
+Prelimin.
+Preliminari
+di Champions
+di coppa
+Interleague
+di Interleague
+GIOCA COME MANAGER
+<TEAM> ti ha assunto come nuovo allenatore! La società si augura che tu faccia del tuo meglio! Buona fortuna!
+Congratulazioni! Siamo qualificati per la prossima Champions!
+Congratulazioni! Siamo qualificati per la prossima Interleague!
+Attendere prego...
+Files
+vendi
+status
+VUOI USCIRE DAL GIOCO?
+libera da contratto
+il giocatore verrà svincolato ed immesso immediatamente in lista trasferimenti!
+Finanze: <DATA>K
+Successo: <DATA>%
+Seleziona la tua squadra
+Memoria piena
+E' disponibile un aggiornamento del gioco!  Clicca sul link in basso per scaricare la nuova versione di The Soccer Player Manager 2016!
+Questo aggiornamento è necessario, la versione attuale non è più supportata!
+Continua senza aggiornare
+
+<fine testi di gioco>

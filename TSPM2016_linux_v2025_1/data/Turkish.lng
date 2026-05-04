@@ -1,0 +1,507 @@
+THE SOCCER PLAYER MANAGER
+KLC
+DEF
+ORT
+FOR
+Kale
+Defans
+Orta Saha
+Ileri
+Hafta
+Kaleci
+Defans
+Orta Saha
+Forvet
+Puan Durumu
+Mac Sonuc
+Fikstur
+Goller
+P
+OM
+G
+B
+M
+AG
+YG
+Sonuc Al
+Hizli
+Oyna!
+Lig
+1
+2
+3
+4
+Takim Kapasite:
+Kaleciler
+Defans 
+Ortasaha
+Atak
+Takim Antreman
+Taktik Antreman
+Takima izin Ver
+Ekstra idman
+Alinan Futbolcular
+Futbolcu Maaslari
+Yeni Kontratlar
+Faizler
+Diger Harcamalar
+Transfer Geliri
+Mac Gelirleri
+Kupa Gelirleri
+Sponsorluklar
+Diger Gelirler
+Toplam
+Mevcut Butce
+Kredili Mevduat
+Toplam Mevcut
+Futbolcu Alimi
+Futbolcu Satimi
+Oyun Yuzdesi
+Toplam Sut
+Kaleye Sut
+Korner Atislari
+Yapilan Faul
+Sari Kartlar
+Kirmizi Kartlar
+kale
+Forma 1
+Forma 2
+Forma 3
+Kayitli Oyun Yukle
+Oyunu Kaydet
+Takim Adi Yukle
+Takim Adi Kaydet
+TAKTIK YUKLE
+TAKTIK KAYDET
+TAKTIK SEC
+Dosya Adi
+Yonetim Degerlendirmesi
+Yonetim Kurulu Cok Mutlu.
+Basarilarinin Devamini Dileriz!
+Yonetim Kurulu Cok Memnun..
+Yonetim Kurulu Memnun..
+Yonetim Kurulu memnun, ama daha olumlu gelisme bekliyor..
+Yonetim Kurulu mutsuz....Yonetim Kurulu uzgun.
+Bazi seylerin duzelmesi gerek..
+Yonetim Kurulu mevcut durumu utanc verici buluyor.
+Yonetim Kurulu mevcut durumdan dolayi iyi dileklerde bulunuyor..
+Yonetim Kurulunun sana guveni tam..
+Yil/Hafta
+Takim
+Oyuncu-Menejer
+TAMAM
+Iptal
+SIL
+Zaten bu taktigi kullaniyorsun!
+Verilen izin takima iyi geldi!
+Haftada sadece bir kez taktik degistirebilirsin!
+Bu kadar fazla harcamalari karsilayamayiz!
+Takimda 24 ten fazla futbolcu bulunduramazsin!
+Neden kendi oyuncunu almaya calisiyosun?
+Haftada sadece iki oyuncu alabilirsin.
+Kupadan elendik, kulubumuz icin utanc verici!
+Bu kadar kisa surede kupadan elenmemiz basarisiz oldugumuzu gosterir!
+Kupa disi kaldik. Akilli, daha iyisini yapabilirdik..!
+Utan, yari finali kaybettik!
+Utanmalisin neredeyse sampiyon oluyorduk..
+Guzel Sonuc! Tur atladik!
+Guzel Sonuc! 3.Turdayiz!
+iyi Sonuc! Ceyrek Finaldeyiz!
+Harika Sonuc! Yari Finaldeyiz!
+Harika Sonuc! Finaldeyiz!
+sampiyon!! Kutlama baslasin ! Acalim Rakilari!
+Ne yazik ki kovuldun!
+Ne yazik ki bizi gozden cikardilar!
+<TEAM> transfer teklifi <GIOC>
+Taraftar sorun cikardi <TEAM>! <DATA> K arti!
+Sponsorluk anlasmasi <TEAM>! <DATA>K
+Yukselme <DATA>! Yeni kredi limitimiz <DATA2> K!
+Kume dustugumuz icin<DATA>! Banka kredi limitimizi azaltti <DATA2> K!
+Oyun datasi olusturulurken lutfen bekleyiniz !
+Takimlar
+Yukle
+Kaydet
+Tamam
+Lig - Hafta <DATA>
+<GIOC>, altyapidan genc oyuncu A kadroya yukseldi !
+Takim
+Lig
+Kupa
+Kulup
+Antrenor
+Transfer
+Taktikler
+Mac Gunu
+Secenekler
+Yeni Sezon
+Alinan Kupa
+Finalist
+Y.Finalist
+C.Finalist
+Kulup Kayitlari
+YIL  Lig Sira  OM G  B  M  AG YG  P
+Finansal
+Gelir
+Gider
+Onceki hafta
+Bu hafta
+Tek.Dir.Verileri
+Basari Orani:
+Istifa et
+T.Direktorlukten Istifa Et <TEAM>?
+EVET!
+HAYIR!
+Mutluluktan Havalarda ucuyoruz!
+Moralimiz super!
+Burada kesinlikle bir sorun yok patron!
+Moraller cok iyi.
+Futbolcular arasinda huzursuzluk basladi.
+Takim icinde depresyon basladi.
+Antrenor
+Takim calismasi
+Futbolcu              Mevki   Yeni
+idman Tekrari:
+Sil
+Taktik Degistir
+Transfer Listesi
+Alt
+Ust
+Futbolcu           Yas Takim           Lig
+Kabul
+Hmmm ...
+Olmaz
+Futbolcular:
+1ci tur 
+2ci tur
+3cu tur
+Ceyrek -finaller
+Yari-finaller
+Final
+Finaller
+Turk.Kupa
+Ceyrek -finaller
+Yari-finaller
+Final
+aet
+pen
+VS
+Hizli
+izle
+MAC OYNANIYOR ...
+Home Vs. <TEAM>
+Away Vs. <TEAM>
+against <TEAM>
+Mevki
+Yas
+Boy
+Kilo
+Depar
+Ceviklik
+Dayaniklilik
+Saglamlik
+Hirs
+Moral
+Pas
+Sut
+Ikili Muc
+Kale
+Dusuk
+Mutsuz
+Ok
+iyi
+Harika
+Mukemmel
+Mac
+Goller
+Ort
+Kupa
+1
+2
+3
+4
+Futbolcu Bilgisi
+isim
+cm
+kg
+Yetenekler
+FIYAT
+Mevcut
+Transfer Et
+Gecmisi
+Poz
+Yas
+Kontrat
+Degeri
+Saglik Durumu
+Disiplini
+Transfer durumu
+Transferi Reddet
+Transfer Et
+Transferden vazgec
+Futbolcu durumu
+Futbolcunun sari karti var
+Futbolcunun <DATA> sari kartlari
+Bir hafta cezali
+<DATA> hafta cezali
+<DATA> sure sakat
+Transfer listesi
+<DATA> zamandir transfer listesinde
+Futbolcu transfer olmak istiyor
+<DATA> zamandir futbolcu cevap bekliyor
+Yeni kontrat oner
+yillik
+HAYIR!
+isten ayril!
+Durdurmak icin simdi O.K. basin, veya iptal etmek icin buraya basin!
+Takim
+Gol Futbolcu             Takim
+Bu oyun 1990 yilinda Dino Dini ve Steve Screech
+tarafindan yapilan oyundan esinlenmistir.
+Bu oyun bir reproduksiyondur
+orjinal oyuna sadik kalarak hazirlanmistir,
+yeni secenekler eklenmistir bunlardan bazilari:
+her futbol takimina kendi oyun stili kazandirilmis,
+degisik futbol sahalari, tekrar kamerasi,
+ve bir cok yenilik mevcuttur...!
+onumuzdeki donemde gelecek yenilikler icin bizi buralardan takip edebilirsiniz:
+BASLAT
+FUTBOLCU SAT
+FUTBOLCU AL
+TEKLiF ET
+FiYAT
+isim
+Mevki
+Yas
+Yetenek
+Mevcut
+SATIN AL
+Iptal
+Kabul Et
+teklif
+Karsi
+teklif et
+CIKIS
+S
+C
+T
+T
+K
+Futbolcu           Yas Mevki No Durumu
+Taktik Adi:
+Futbolcu              Mevki  nr
+KADRO TAMAMLANMADI!
+DEVAM ETMEK iSTiYOR MUSUN?
+EVET
+HAYIR
+Kadrolar
+bir hafta
+haftalar
+bir ay
+bir aydan fazla
+<DATA> aydir
+Yapilan Faul
+Kaleye sut
+Toplam sut
+yuzde
+oyundan atildi.
+sakatlandi
+<GIOC> cezasi bitti
+<GIOC> sakatligi duzeldi
+<GIOC> kariyer hedefleri geregi transfer talep ediyor.
+Hafta
+Yil
+P
+S
+A
+E
+Ydk
+PENALTI ATISLARI
+T
+ET
+Sesi Ac
+Sesi Kapa
+Oyuncu Degis4
+Taktikler
+Forma
+Yerine
+Taktik Degisikligi
+Tamam
+Tac
+Kale Atisi
+Korner
+GOL
+Kulup Kayitlari
+Finans
+Yonetim Durumu
+Tamam
+Kulup
+OYUN SECENEKLERi
+Diger mac sonuclari
+Oyunu dahili hafizaya kaydet
+Oyunu harici medya ile kaydet
+Otomatik MAC TAM EKRAN
+Oyunu Kaydet
+Bu demo versiyonudur! Tekrarlari izlemek, kariyer modunda oynayip kayit etmek icin, WINDOWS/MAC/ANDROID de tam versiyonlari indirebilirsiniz:
+devam et
+cikis
+Italyanca
+ingilizce
+Isimleri Sec
+Yeni Oyun
+Kayitli Oyun Yukle
+Demo Oyunu
+Yil
+Takim
+Oyuncu-Menejer
+Yas
+Mevki
+MEVKINDE OYNA
+TAKIM OYNA
+Android cihazlar icin versiyon
+Uygulama harici kayit desteklemektedir. "Evet" basarak yeni klasor olusturun klasor adi "<FOLDER>" ile tum kayitlarinizi buraya yapabilirsiniz. "HAYIR" basarak tum kayitlarinizi dahili hafizaya yapabilirsiniz.
+-
+-
+-
+-
+-
+-
+DEVAM
+Dahili Hafiza
+Harici Hafiza
+Seciminizi yapin
+oyun kayit verisi
+Yeni FLASH versiyon
+Flash versiyondaki yeni ozellikler
+Yeni flash versiyonunda
+kariyerinizi,taktikleri ve terarlari kayit edebilirsiniz.
+Tam versiyonda ise bunlara ek olarak
+futbolcu isimleri ve forma degisiklikleri yapabilirsiniz.
+tum bu avantajlara sahip olmak icin oyununun
+WINDOWS/MAC/LINUX/ANDROID versiyonlarini indirebilirsiniz.
+DEVAM
+Bu beta versiyondur, eger hatalar ile karsilasirsaniz lutfen ingilizce olarak bizimle baglanti kurun:
+Bu projeye katkida bulunan herkese selamlar, herhangi bir oneri veya hata bildirimi icin sosyal hesaplarimiz!!
+Demo Oyunu Arcade
+Golcu:
+T
+Penalti atisi
+Faul yapan <GIOC>
+<GIOC> Sari Kart!
+<GIOC> Kirmizi Kart!
+<GIOC> sakatlandi!
+TEKRAR YUKLE
+TEKRAR KAYDET
+Kayitli Tekrar izle
+serbest vurus - mesafe:
+HTML5 Versiyonu
+HTML5 versiyonunda bir cok sinirlama vardir.
+Kapali:
+Acik:
+Dino Dini tarafindan 1990 senesinde olusturulan klasik oyunlara ovguler olsun. Bu oyun Commodore Amiga grafikleri, ses efektleri ve oynanabilirlikleri dogrultusunda tekrar olusturulmustur. Orjinal gelistiricilerin bu oyunla ilgisi yoktur, eger bir sonraki Dino Dini oyununu ariyorsaniz: www.twitter.com/dndn1011
+Bu oyun 90 li yillarin Kick Off 2 & Player Manager oyunlarina yeni ozellikler eklenerek gelistirilmistir. Bir sonraki surum icin takipte kalin:
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+Sonraki Mac
+---
+Top Kontrol
+Kolay
+Normal
+Zor
+Kulup yonetimi keyifli!
+Bu tempoda devam!
+Kulup yonetimi memnun!
+Kulup yonetimi mutlu!
+Kulup yonetimi hosnut, ancak durumun daha iyiye gitmesini bekliyor!
+Kulup yonetimi mutsuz!
+Kulup yonetimi uzgun. bu gidisati duzeltmek zorundasin!
+Kulup yonetimi gidisattan cok kaygili!
+Kulup Yonetimi mevcut gidisati utanc verici buluyor!
+Kulup Yonetimi mevcut sartlar altinda seninle calismayi gozden gecirmeyi planliyor!
+Kulup Yonetiminin sana itimati sonsuz!
+Mutluluktan Havalarda ucuyoruz!
+Burada kesinlikle bir sorun yok patron!
+Moraller cok iyi.
+Moraller iyi!
+Moral OK!
+Futbolcular arasinda huzursuzluk basladi.
+Elimizden geleni yapmiyoruz!
+Takim icinde depresyon basladi!
+Soyunma odalarinda surekli dedikodu yapmaya basladilar!
+Moral tavana vurdu!
+Futbolcular arasinda gruplasmalar basladi!
+Baslangic secimi yapiniz
+Zorluk Seviyesi
+KOLAY
+23-24 yasinda bir oyuncusun, kazanan bir takimin ve kaliteli futbolcular alacak kadar zengin bir butcen var.
+NORMAL
+28-29 yasinda bir oyuncusun, takimin iyi ama gene de tecrubeli iyi yeni futbolculara ihtiyacin var.
+ZOR
+33-34 yasinda bir oyuncusun, kisitli butce ile takimini kume dusmekten kurtarman gerek.
+Ulke Seciniz
+Futbolcu Adi Degistir
+FUTBOLCU AD YUKLE
+FUTBOLCU AD KAYDET
+Anco Games firmasinin, Kick Off 2 & Player Manger oyunlarindan ilham alinarak hazirlanmis bedava bir futbol menejerlik oyunudur.
+The Soccer Player Manager 2016 oyunu kaynak kodlari, "Kick Off World" topluluk uyeleri tarafindan %100 orjinal calisma ile yapilmistir.
+Bu retro oyun,Steve Screech tarafindan yapilan Commodore Amiga 2D grafikleri dogrultusunda yukaridan asagi tam boy saha ve hizli oyunanabilirlik ile tekrar hazirlanmistir.
+The Soccer Player Manager 2016 devam eden bir gelistirme surecindedir. Ve duzenli olarak guncellenecektir. Yeni guncellemeler icin bizi sosyal medyada takip ediniz:
+Yeni Oyun
+Tebrikler!! Sampiyon Olduk!!
+Uyari!
+Oyun hala beta surumundedir: kayitli verileriniz bir sonraki  surum ile uyumsuz olabilir!!
+Kol Degistir
+Uyumlu dosya degil
+oyun hizi
+-icERiK YOK-
+Avrupa
+Asya
+Afrika
+Kuzey Amerika
+Guney Amerika
+Ekstra Takimlar
+Samp.Ligi
+On eleme
+On eleme
+sampiyonlar
+kupa
+Uefa Ligi
+Lig
+Tek.Dir. OYNA
+<TEAM> Seni yeni antrenor olarak tuttular! En iyisini yapacagina inaniyorlar ! iyi sanslar!
+Tebrikler! bir sonraki yil on eleme turuna katilma hakki kazandik!
+Tebrikler! bir sonraki yil on elemesiz lige katilma hakki kazandik!
+Lutfen Bekleyiniz...
+Dosyalar
+Sat
+Durum
+CIKMAK ISTIYOR MUSUN?
+Bedava Transfer
+Oyuncu serbest kalip hemen bir takim bulacaktir!
+Butce: <DATA>K
+Oran: <DATA>%
+Takiminizi seçin
+Tam bellek
+Oyunun bir güncellemesi mevcut! Futbolcu Müdürü 2016'nın yeni sürümünü indirmek için aşağıdaki bağlantıya tıklayın!
+Bu güncelleme gerekli, mevcut sürüm artık desteklenmiyor!
+Güncellemeden devam et
+
+<fine testi di gioco>

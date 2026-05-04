@@ -1,0 +1,507 @@
+THE SOCCER PLAYER MANAGER
+POR
+DEF
+MED
+DEL
+Portero
+Defensa
+Medio
+Delantero
+Semana
+Portero
+Defensa
+Medio
+Delantero
+Clasifica.
+Resultados
+Partidos
+Goleadores
+PT
+J
+G
+E
+P
+GF
+GC
+resultado
+rápido
+JUGAR!
+Div
+1
+2
+3
+4
+Habilidades del Equipo:
+Porteros
+Defensas
+Mediocampistas
+Delanteros
+Entrena. Equipo
+Entrena. Táctico
+Tomar un Descanso
+Entrena. Extra
+Jugadores Comprados
+Salarios de jugadores
+Nuevos contratos
+Intereses
+Otros gastos
+Jugadores vendidos
+Ganacias por partidos
+Ganancias por la Copa
+Patrocinadores
+Otros ingresos
+Total
+Presupuesto actual
+Crédito extra
+Total disponible
+Jugadores comprados
+Jugadores vendidos
+Pos. del balón
+Tiros totales
+Tiros a puerta
+Saques de esquina
+Faltas recibidas
+Tarjetas amarillas
+Tarjetas rojas
+Portero
+Camiseta 1
+Camiseta 2
+Camiseta 3
+CARGAR JUEGO
+SALVAR JUEGO
+CARGAR NOMBRE DE EQUIPOS
+SALVAR NOMBRE DE EQUIPOS
+CARGAR TáCTICA
+SALVAR TáCTICA
+SELECCIONAR TáCTICA
+Nombre del archivo
+Evaluación de la Directiva
+La Directiva está encantada.
+¡Sigue así con el buen trabajo!
+La Directiva está agradecida..
+La Directiva está contenta..
+La Directiva está satisfecha, pero estaría bien mejorar..
+La Directiva no está contenta.. La Directiva está preocupada.
+Deseamos que las cosas mejoren..
+La Directiva encuentra la actual situación vergonzosa.
+La Directiva encuentra tu posición como poco sólida bajo las circunstancias actuales..
+Tienes plena confianza por parte de la Directiva..
+Año/Semana
+Equipo
+Jugador-Entrenador
+O.K.
+Cancelar
+BORRAR
+¡Ya estás usando ésta táctica!
+¡Un descanso era lo que necesitábamos!
+¡Solo se permite cambiar una táctica por semana!
+¡No nos podemos permitir pagar tanto!
+¡No puedes tener mas de 24 jugadores!
+¿Por que quieres comprar un jugador que ya es tuyo?
+Solo puedes comprar 2 jugadores por semana.
+¡Que pena, nos eliminaron de la copa!
+¡Que pena, nos eliminaron de la copa!
+¡Que pena, nos eliminaron de la copa!
+¡Que pena, nos eliminaron en la semifinal!
+¡Perdimos en la final! De todas formas, ¡Muy buen resultado!
+¡Bien hecho! ¡Hemos pasado de ronda!
+¡Buen resultado! ¡Pasamos a la ronda 3!
+¡Buen resultado! ¡Estamos en cuartos!
+¡Excelente resultado! ¡Estamos en semifinales!
+¡Excelente resultado! ¡Estamos en la final!
+¡¡CAMPEONES!! ¡Champan para todos!
+Por desgracia, ¡has sido despedido!
+Por desgracia, ¡hemos sido apartados!
+<TEAM> quiere hacerte una oferta por <GIOC>
+¡Problemas de la grada en <TEAM>! <DATA> ¡K de multa!
+¡Acuerdo de pratrocinio de <DATA>K para <TEAM>!
+¡Hemos sido promocionados a <DATA>! ¡Nuestro nuevo límite crediticio es <DATA2> K!
+¡Hemos descendido a <DATA>! ¡Nuestro nuevo límite crediticio es <DATA2> K!
+Por favor, espera mientras se crean los datos del juego
+Los Equipos
+Cargar
+Salvar
+Hecho
+Liga - Semana <DATA>
+<GIOC>, ¡un jugador joven ha sido promocionado al primer equipo!
+Equipo
+Liga
+Copa
+Club
+Entrenador
+Fichajes
+Tácticas
+Día del partido
+Opciones
+Nueva Temporada
+     Ganadores de la Copa
+     Finalistas
+     Semi Finalistas
+     Cuarto-Finalistas
+Records del Club
+Año   Div Pos  J  G  E  P  GF GC  PT
+Finanzas
+Ingresos
+Gastos
+Semana previa
+Ésta semana
+Logros en la carrera del Manager
+Ratio de éxito:
+Renuncia
+¿Renunciar como Manager de <TEAM>?
+¡SI!
+¡NO!
+¡No podemos ser mejores!
+¡La moral es estupenda!
+¡Definitivamente, aquí no hay problemas de confianza, jefe!
+La moral es muy buena.
+Aqui comienzan las dudas entre nuestros jugadores.
+La depresión se ha afianzado entre los chicos
+El Preparador
+Entrenam. equipo
+Jugador             Pos  Nuevo
+Re-entrenar:
+Borrar
+Cambiar Tácticas
+Lista de fichajes
+Baja
+Sube
+Jugador          Edad Equipo       Div
+Trato hecho
+Hmmm ...
+No, gracias
+Jugadores:
+1a ronda
+2a ronda
+3a ronda
+Cuartos de final
+Semi-finales
+Final
+Finales
+La Copa
+Cuartos de final
+Semi-finales
+Final
+aet
+pen
+VS
+Rápido
+Ver
+VISIóN EN PROGRESO ...
+En casa contra <TEAM>
+Fuera contra <TEAM>
+contra <TEAM>
+Posición
+Edad
+Altura
+Peso
+Velocidad
+Agilidad
+Resistencia
+Adaptacion
+Agresividad
+Moral
+Pase
+Tiro
+Entrada
+Parada
+Bajo
+Infeliz
+Ok
+Bien
+Buena
+Óptima
+Jug.
+Goles
+Med.
+Cup
+1
+2
+3
+4
+Información del jugador
+Nombre
+cm
+kg
+Habilidades
+PRECIO
+Disponibilidad
+COMPRAR JUGADOR
+Historia
+Pos
+Edad
+Contrato
+Evaluación
+Estado de forma
+Disciplina
+Estado del fichaje
+Denegar fichaje
+Vender jugador
+Cancelar venta
+Estado del jugador
+El jugador tiene una tarjeta amarilla
+El jugador tiene <DATA> tarjetas amarillas
+Suspendido por una semana
+Suspendido por <DATA> semanas
+Lesionado por <DATA>
+Lista de fichajes
+En la lista de fichajes desde <DATA>
+solicita que sea vendido
+Solicita que sea vendido por <DATA>
+Ofrecer otro contrato
+años
+¡NO!
+¡Dejar de ser jugador!
+¡Para dejar de ser jugador, pulsa O.K., o pulsa aquí para cancelar!
+Equipo
+Jugador objetivo        Equipo
+Remake inspirado en el juego creado
+por Dino Dini & Steve Screech en 1990
+Este juego es una reproducción,
+muy fiel al juego original,
+con el añadido de nuevas opciones:
+cada equipo tiene su propio estilo,
+varios campos, repeticiones,
+y muchas otras cosas añadidas...!
+Para próximas versiones, siguenos en:
+EMPEZAR
+VENDER JUGADOR
+COMPRAR JUGADOR
+OFERTA
+PRECIO
+Nombre
+Pos
+Edad
+Habilidades
+Disponible
+COMPRAR
+BORRAR
+Aceptar
+la oferta
+En contra
+ofrecer
+SALIR
+I
+B
+R
+T
+C
+Jugador            Edad Pos  Nr  Estado
+Nombre de la táctica:
+Jugador             Pos  nr
+¡EL EQUIPO ESTá INCOMPLETO!
+¿QUIERES CONTINUAR DE TODAS FORMAS?
+SI
+NO
+LAS ALINEACIONES
+una semana
+semanas
+un mes
+mas de un mes
+mas de <DATA> meses
+Faltas recibidas
+Tiros a puerta
+Total de tiros
+posesion
+ha sido amonestado
+está lesionado
+<GIOC> ha vuelto de la suspension
+<GIOC> se ha recuperado de la lesion
+<GIOC> le gustaria avanzar en su carrera y solicita su traspaso.
+Semana
+Años
+T
+P
+A
+E
+Sub
+TIROS DE PENALTI
+T
+ET
+Sonido Encendido
+Sonido Apagado
+Sustituir
+Tácticas
+Equipo
+sustituir por
+Cambiar tácticas por
+Hecho
+Saque de banda
+Saque de puerta
+Corner
+GOL
+Records del Club
+Finanzas
+Asesoramiento Directivo
+Hecho
+El Club
+OPCIONES DE JUEGO
+Ver otros resultados de partidos
+Salvar datos en la memoria interna
+Salvar datos a la memoria externa
+PANTALLA COMPLETA PARA EL PARTIDO de forma automática
+Salvar Juego
+¡Ésta es la version demo! Para salvar tu carrera y ver repeticiones, descarga las versiones para WINDOWS/MAC/ANDROID:
+continuar
+salir
+Italiano
+Ingles
+Seleccionar Nombres
+Nuevo Juego
+Cargar Juego
+Juego de Demostracion
+Año
+Equipo
+Player-Manager
+Edad
+Posicion
+JUGAR EN POSICIóN
+JUGAR COMO UN EQUIPO
+Versión para Android
+La aplicación puede acceder a un apoyo externo. Haga clic en "Sí" para crear una carpeta llamada "<FOLDER>" donde puede guardar todos los archivos. Haga clic en "NO" para guardar los archivos en la memoria interna.
+-
+-
+-
+-
+-
+-
+CONTINUAR
+Mermoria interna
+Memoria externa
+Selecciona el tipo de memoria
+salvar los datos del juego
+Nueva version FLASH
+Nuevas caracteristicas en la version FLASH
+La nueva version Flash ahora te permite
+poder guardar carreras, tácticas y repeticiones.
+En la versión íntegra, tambien puedes
+editar jugadores, camisetas y nombres.
+Para aprovechar todas las opciones, descarga
+las versiones para WINDOWS/MAC/LINUX/ANDROID.
+CONTINUAR
+Ésta es una versión beta muy temprana, si encuentras errores en la traducción a Espanol, por favor contactanos en:
+Todo el mundo es bienvenido a ayudar en este proyecto, cualquier sugerencia o informe de errores, se pueden tambien enviar a nuestras cuentas en las redes sociales
+Demo de Juego Arcade
+Goleador:
+R
+Tiro de Penalti
+Falta de <GIOC>
+<GIOC> ¡tarjeta amarilla!
+<GIOC> ¡tarjeta roja!
+<GIOC> ¡lesionado!
+CARGAR REPETICIóN
+GUARDAR REPETICIóN
+Ver Rep. guardada
+Tiro libre - distancia:
+Version HTML5 
+La version HTML5 tiene muchas limitaciones.
+Apagado:
+Encendido:
+Tributo a los clásicos juegos creados por Dino Dini en 1990. Este juego reproduce los mismos gráficos del Commodore Amiga, efectos de sonido y jugabilidad. Ninguno de los desarrolladores originales están involucrados en este juego, si buscas el proximo juego de Dini, dirígete a: www.twitter.com/dndn1011
+Este juego anadira nuevas caracteristicas a los juegos originales de los 90, Kick Off 2 & Player Manager. Para la proxima version, siguenos en:
+Semana 1
+Semana 2
+Semana 3
+Semana 4
+Semana 5
+Semana 6
+Semana 7
+Semana 8
+Semana 9
+Semana 10
+Semana 11
+Semana 12
+Semana 13
+Semana 14
+Semana 15
+Semana 16
+Semana 17
+Semana 18
+Semana 19
+Semana 20
+Semana 21
+Semana 22
+---
+Control de la bola
+Fácil
+Normal
+Difícil
+La Directiva está encantada.
+¡Sigue así con el buen trabajo!
+La Directiva está agradecida..
+La Directiva está contenta..
+La Directiva está satisfecha, pero estaría bien mejorar..
+La Directiva no está contenta.. 
+La Directiva está preocupada. Será mejor que las cosas mejoren..
+La Directiva está mayoritariamente preocupada
+La Directiva encuentra la actual situación vergonzosa.
+La Directiva encuentra tu posición como poco sólida bajo las circunstancias actuales..
+Tienes plena confianza por parte de la Directiva..
+Estamos en nuestro mejor momento. ¡La moral es estupenda!
+¡Definitivamente, aquí no hay problema, jefe!
+¡La moral es muy buena!
+¡La moral es buena!
+¡La moral es OK!
+¡Hay atisbos de dudas entre nuestros juegadores!
+¡No lo estamos haciendo tan bien como deberiamos!
+¡La depresión se adueña de los chicos!
+¡Puedo escuchar murmurar a la gente en los vestuarios!
+¡La moral está por los suelos!
+¡Hay peleas entre nuestros jugadores!
+Configuración inicial
+Nivel de dificultad
+FáCIL
+Eres un jugador de 23-24 años, tienes un equipo ganador con suficiente presupuesto como para comprar grandes jugadores.
+NORMAL
+Eres un juegador de 28-29 años, tu equipo es bueno, pero tiene que ser mejorado y necesita nuevos jugadores.
+DIFíCIL
+Eres un jugador de 33-34 años, prueba a salvar a tu equipo del descenso y de la mala situacion economica por la que atraviesa el Club.
+Seleccionar Campeonato
+Editar nombres
+CARGAR NOMBRES DE JUGADORES
+GRABAR NOMBRES DE JUGADORES
+Un juego gratuito de gestión Futbolistica, inspirado por los juegos de Anco: Kick Off 2 & Player Manager.
+El código fuente de The Soccer Player Manager 2016 es 100% trabajo original. Hecho por la comunidad "Kick Off World".
+Este juego-retro reproduce los gráficos del Commodore Amiga en 2D hechos por Steve Screech, con pleno detalle y el mismo modo de juego.
+The Soccer Player Manager 2016 está en contínuo desarrollo y será actualizado regularmente, comprueba nuevas actualizaciones en las redes sociales, síguenos en:
+Nuevo Nombre
+¡¡Felicidades!! ¡¡Ganamos el campeonato!!
+¡Cuidado!
+El juego está todavia en fase beta: todo los formatos grabados están sujetos a cambio y quizás no sean compatibles con la proxima versión.
+Invertir PAD
+Archivo no compatible
+velocidad de juego
+-NO CONT-
+Europa
+Asia Oceania
+Africa
+America del Norte
+America del Sur
+Equipos extra
+Champions
+Clasificac.
+Clasificac.
+de Champions
+de Copa
+Interleague
+de Interleague
+JUGAR COMO MANAGER
+<TEAM> ¡Te ha contratado como nuevo Entrenador! El equipo espera que lo hagas lo mejor posible, ¡buena suerte!
+¡Felicidades! ¡Nos clasificamos para la proxima Champions!
+¡Felicidades! ¡Nos clasificamos para la proxima Interleague!
+Por favor, espera...
+Archivos
+vender
+estado
+QUIERES SALIR DEL JUEGO?
+Mercado libre
+El jugador tendrá la libertad de buscar otro equipo de forma inmediata!
+Finanzas: <DATA>K
+Éxito: <DATA>%
+Selecciona tu equipo
+Memoria llena
+¡Una actualización del juego está disponible! ¡Haga clic en el enlace a continuación para descargar la nueva versión del Soccer Player Manager 2016!
+Esta actualización es necesaria, ¡la versión actual ya no es compatible!
+Continuar sin actualizar
+
+<fine testi di gioco>

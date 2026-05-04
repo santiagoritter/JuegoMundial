@@ -1,0 +1,507 @@
+The Soccer Player Manager
+TW
+VER
+MF
+ST
+Torwart
+Verteidig.
+Mittelf.
+Stürmer
+Woche
+Torwart
+Verteidig.
+Mittelf.
+Stürmer
+Tabelle
+Ergebnisse
+Spiele
+Torschützen
+SP
+S
+G
+U
+V
+T
+GT
+Ergebnis
+schnell
+SPIELEN!
+Liga
+1
+2
+3
+4
+Fähigkeiten:
+Torhüter
+Verteidig.
+Mittelf.
+Stürmer
+Team Training
+Taktik Training
+Ruhetag einlegen
+Sonder Training
+Gekaufte Spieler
+Spielergehälter
+Neue Verträge
+Interesse
+Weitere Ausgaben
+Verkaufte Spieler
+Spieleinnahmen
+Einnahmen Pokal
+Sponsoren
+Weiteres Einkommen
+Insgesamt
+Aktuelles Guthaben
+Überziehungslimit
+Insgesamt verfügbar
+Gekaufte Spieler
+Verkaufte Spieler
+Ballbesitz
+Schüsse insgesamt
+Schüsse aufs Tor
+Eckbälle
+Fouls eingesteckt
+Gelbe Karten
+Rote Karten
+Torwart
+Shirt 1
+Shirt 2
+Shirt 3
+Spiel laden
+Spiel sichern
+Mannschaftsnamen laden
+Mannschaftsnamen sichern
+TAKTIK LADEN
+TAKTIK SICHERN
+TAKTIK AUSWÄHLEN
+Dateiname
+Einschätzung des Managements
+Die Vorstand ist hocherfreut.
+Gute Arbeit! Weiter so!
+Der Vorstand ist erfreut..
+Der Vorstand ist glücklich..
+Der Vorstand ist zufrieden, würde sich aber Verbesserung wünschen..
+Der Vorstand ist unglücklich..Der Vorstand ist besorgt.
+Die Lage sollte sich bessern..
+Der Vorstand findet die momentane Situation schändlich.
+Der Vorstand sieht Deine Position unter den aktuellen Bedingungen als gefähdet an..
+Du hast das volle Vertrauen des Vorstands..
+Jahr/Woche
+Mannschaft
+Spielertrainer
+O.K.
+Abbrechen
+LÖSCHEN
+Du benutzt bereits diese Taktik!
+Eine Pause war das was wir gebraucht haben!
+Es ist nur erlaubt eine Taktik pro Woche zu ändern!
+Wir können es uns nicht leisten so viel zu investieren!
+Du kannst nicht mehr als 24 Spieler im Kader haben!
+Warum solltest Du einen Spieler kaufen der schon dir gehört?
+Du kannst nur 2 Spieler pro Woche kaufen.
+Schade, dass wir aus dem Pokal ausgeschieden sind!
+Schade, dass wir aus dem Pokal ausgeschieden sind!
+Schade, dass wir aus dem Pokal ausgeschieden sind!
+Schade, dass wir im Halbfinale verloren haben!
+Wir haben im Finale verloren! Trotzdem ein gutes Resultat!
+Tolles Resultat! Wir haben die Runde überstanden!
+Tolles Resultat! Wir sind in Runde 3!
+Gutes Resultat! Wir sind im Viertelfinale!
+Exzellentes Resultat! Wir stehen im Halbfinale!
+Exzellentes Resultat! Wir sind im Finale!
+Pokalsieger!! Champagne für die Jungs!
+Unglücklicherweise wurdest Du gefeuert!
+Unglücklicherweise sind wir ausgeschieden!
+<TEAM> will Dir ein Angebot für folgenen Spieler machen <GIOC>
+Fanausschreitungen bei <TEAM>! <DATA> K Strafe!
+Sponsorvertrag <DATA>K for <TEAM>!
+Wir sind in die <DATA> aufgestiegen! Unser neuer Überziehungskredit beträgt <DATA2> K!
+Wir sind in die <DATA> abgestiegen! Unser neuer Überziehungskredit beträgt <DATA2> K!
+Warte bitte bis die Spieldaten erstellt wurden
+Die Mannschaften
+Laden
+Sichern
+Fertig
+Liga - Woche <DATA>
+<GIOC>, ein junger Spieler hat den Sprung in die erste Mannschaft geschafft!
+Mannschaft
+Liga
+Pokal
+Club
+Trainer
+Transfers
+Taktiken
+Spieltag
+Optionen
+Neue Saison
+Pokalsieger
+Finale
+Halbfinale
+Viertelfinale
+Vereinsrekorde
+JAHR  LIG POS  S  G  U  V  T  GT  P
+Finanzen
+Ein
+Aus
+Vorherige Woche
+Diese Woche
+Wirtschaftliche Statistik
+Erfolgsrate:
+Zurücktreten
+Zurücktreten als Manager von <TEAM>?
+JA!
+NEIN!
+Wir schweben alle auf Wolke 7!
+Die Moral ist super!
+Hier gibt es definitiv kein Vertrauensproblem Chef!
+Die Moral ist sehr gut.
+Bei unseren Spielern beginnen Zweifel aufzukommen.
+Depression macht sich unter den Jungs breit
+Der Trainer
+Mannschaftstraining
+Spieler             Pos   Neu
+Umschulen:
+Löschen
+Taktiken ändern
+Transferliste
+n.u.
+n.o.
+Spieler        Alter Team          Liga
+Einverstanden
+Hmmm ...
+Nein Danke
+Spieler:
+1. Runde
+2. Runde
+3. Runde
+Viertelfinale
+Halbfinale
+Finale
+Finals
+Der Pokal
+Viertelfinale
+Halbfinale
+Finale
+n.V.
+n.E.
+gegen
+Schnell
+Schauen
+Spiel wird vorbereitet ...
+zu Hause gegen <TEAM>
+auswärts gegen <TEAM>
+gegen <TEAM>
+Position
+Alter
+Größe
+Gewicht
+Schnelligkeit
+Wendigkeit
+Ausdauer
+Belastbarkeit
+Aggression
+Moral
+Passspiel
+Torschuss
+Verteidigen
+Torwart
+Niedrig
+schlecht
+Ok
+Gut
+Prima
+Spitze
+Spiele
+Tore
+Dur
+Pok
+1
+2
+3
+4
+Spielerinformation
+Name
+cm
+kg
+Fähigkeiten
+Preis
+Verfügbar
+Spieler Kaufen
+Geschichte
+Pos
+Alter
+Vertrag
+Wert
+Gesundheitszustand
+Sperren
+Transferstatus
+Transfer ablehnen
+Spieler transferieren
+Transfer abbrechen
+Spielerstatus
+Der Spieler hat eine gelbe Karte
+Der Spieler hat <DATA> gelbe Karten
+Für eine Woche gesperrt
+Für <DATA> Wochen gesperrt
+Für <DATA> verletzt
+Transferliste
+Auf der Transferliste seit <DATA>
+fordert einen Wechsel
+fordert einen Wechsel von <DATA>
+Neuen Vertrag anbieten
+Jahre
+NEIN!
+Schuhe an den Nagel hängen!
+Um aufzuhören klicke auf O.K., oder klicke hier um abzubrechen!
+Mannschaft
+Tor Spieler             Mannschaft
+Retrogame  weitgehend inspiriert von Player Manager und Kick Off
+Von ANCO aus dem Jahr 1990
+Dieses Spiel ist eine Neuauflage,
+sehr nah an den Original Spielgrafiken von Steve Screech,
+mit vielen neuen Zusatzfunktionen:
+jedes Team hat sein eigenes angepasstes Trikot,
+verschiedene Spielfeldarten, Wiederholungen,
+und noch vieles mehr...!
+Für die nächsten Versionen folge uns auf:
+START
+SPIELER VERKAUFEN
+SPIELER KAUFEN
+ANBIETEN
+PREIS
+Name
+Pos
+Alter
+Fähigkeit
+Verfügbar
+KAUFEN
+Löschen
+Akzeptiere
+das Angebot
+Gegen
+anbieten
+Beenden
+I
+B
+R
+T
+C
+Spieler           Alter Pos  Nr  Status
+Taktikname:
+Spieler             Pos  nr
+Die Mannschaft ist unvollständig!
+WILLST DU TROTZDEM FORTFAHREN?
+JA
+NEIN
+Die Aufstellung
+einer Woche
+Wochen
+einem Monat
+über einem Monat
+über <DATA> Monate
+Fouls eingesteckt
+Schüsse auf das Tor
+Schüsse insgesamt
+Ballbesitz
+wurde gesperrt
+ist verletzt
+<GIOC> ist zurück nach seiner Sperre
+<GIOC> hat sich von seiner Verletzung erholt
+<GIOC> würde gern seine Karriere fortsetzen und verlangt deshalb einen Wechsel.
+Woche
+Jahr
+P
+S
+A
+E
+Sub
+ELFMETERSCHIEßEN
+T
+Ver
+Ton an
+Ton aus
+Ersetzen
+Taktiken
+Netz
+Ersatz für
+Taktik ändern für
+Erledigt
+Einwurf
+Torabstoß
+Eckball
+TOR
+Vereins Rekorde
+Finanzen
+Einschätzung des Managements
+Erledigt
+Der Verein
+SPIELOPTIONEN
+Ergebnisse der anderen Spiele ansehen
+Daten auf internem Speicher sichern
+Daten auf externem Medium sichern
+Automatisches SPIEL VOLLBILD
+Spiel sichern
+Dies ist eine Demoversion! Um Deine Karriere zu speichern und Wiederholungen anzusehen lade Versionen für Window/MAC/Android runter:
+weiter
+abbrechen
+Italienisch
+Englisch
+Namen auswählen
+Neues Spiel
+Spiel laden
+Demospiel
+Jahr
+Mannschaft
+Spielertrainer
+Alter
+Position
+In Position spielen
+Als Team spielen
+Version für Android Geräte
+Die Anwendung kann an eine externe Support zugreifen. Klicken Sie auf "Ja", um erstellen Sie einen Ordner namens "<FOLDER>", in dem Sie alle Dateien speichern können. Klicken Sie auf "Nein" zum Speichern der Dateien im internen Speicher.
+-
+-
+-
+-
+-
+-
+FORTFAHREN
+interner Speicher
+Externer Support
+Wähle Support für
+Spieldaten sichern
+Neue FLASH-Version
+Neuerungen in der Flash-version
+Die neue Version von Flash kann jetzt
+sparen die Karriere, Taktik und Replay.
+In der Vollversion können Sie auch
+Spieler-Shirts und Namen bearbeiten.
+Um alle Vorteile nutzen zu können lade die
+WINDOWS/MAC/LINUX/ANDROID Versionen.
+WEITER
+Dies ist eine frühe Beta Version. Falls Du Übersetzungsfehler findest, kontaktiere uns auf:
+Jeder darf uns gern bei diesem Projekt unterstützen. Vorschläge und Fehlermeldungen können hier kommuniziert werden: github github.com/kickoffworld/OpenPlayerManager
+Demospiel Arcade
+Torschütze:
+R
+Elfmeter
+Foul von <GIOC>
+<GIOC> gelbe Karte!
+<GIOC> rote Karte!
+<GIOC> verletzt!
+WIEDERHOLUNG LADEN
+WIEDERHOLUNG SPEICHERN
+Gespeicherte Wiederholungen
+Freistoß - Entfernung:
+HTML5 Version
+Die HTML5 version hat viele Einschränkungen.
+Off:
+On:
+A free Football management game inspired by Anco games Kick Off 2 & Player Manger.
+This retro game reproduces the Commodore Amiga 2D graphics made by Steve Screech, with top down full size fields and fast game play.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+---
+Ballkontrolle
+Leicht
+Normal
+Schwierig
+Die Vorstand ist hocherfreut.
+Gute Arbeit! Weiter so!
+Der Vorstand ist erfreut!
+Der Vorstand ist glücklich!
+Der Vorstand ist zufrieden, würde sich aber über Verbesserung freuen!
+Der Vorstand ist unglücklich!
+Der Vorstand ist besorgt. Die Lage sollte sich bessern!
+Der Vorstand ist äußerst besorgt!
+Der Vorstand findet die momentane Situation beschämend!
+Der Vorstand sieht Deine Position unter den aktuellen Bedingungen als gefähdet an!
+Du hast das volle Vertrauen des Vorstands!
+Wir schweben alle auf Wolke 7. Die Moral ist super!
+Hier gibt es definitiv kein Vertrauensproblem Chef!
+Die Moral ist sehr gut!
+Die Moral ist gut!
+Die Moral ist in Ordnung!
+Bei unseren Spielern beginnen Zweifel aufzukommen!
+Wir liefern derzeit nicht unsere beste Leistung ab!
+Depression macht sich unter den Jungs breit!
+Ich kann viele ominöse Gerüchte in der Umkleidekabine hören!
+Die Moral ist auf dem Tiefpunkt!
+Es gibt Kämpfe zwischen unseren Spielern!
+Wähle die Startoption
+Schwierigkeitsstufe
+LEICHT
+Du bist ein 23-24 Jahre alter Spieler. Du hast eine erfolgreiche Mannschaft und ein großes Budget um gute Spieler zu kaufen.
+NORMAL
+Du bist ein 28-29 Jahre alter Spieler. Deine Mannschaft ist gut, muss aber mit neuen Spielern verstärkt werden.
+SCHWIERIG
+Du bist ein 33-34 Jahre alter Spieler. Versuche den Abstieg Deiner Mannschaft trotz schlechter Finanzen zu verhindern.
+Wähle die Liga
+Spielernamen ändern
+Spielernamen laden
+Spielernamen speichern
+Ein kostenloses Fußballmanagerspiel inspiriert durch Kick Off 2 & Player Manager.
+Der Soccer Player Manager 2016 Quellcode ist 100% echte Arbeit, geschaffen von "Kick Off World" Community Mitgliedern.
+Dieses Retro-Spiel verwendetet die Amiga 2D Grafiken von Steve Screech, mit von oben nach unten scrollenden Spielfeldern und schnellem Gameplay.
+Soccer Player Manager wird kontinuierlich weiterentwickelt und aktualisiert. Für Updates folgt uns auf:
+Neuer name 
+Herzlichen Glückwunsch!! Wir die Meisterschaft gewonnen!!
+ACHTUNG!
+Das Spiel ist noch im Beta: alle Formate Rettungs sind freibleibend und können mit dem nächsten Release unvereinbar erweisen!!
+Invert PAD
+Datei nicht kompatibel
+Spielgeschwindigkeit
+-NO CONT-
+Europa
+Asien Oceania
+Afrika
+Nordamerika
+Südamerika
+Zusätzliche Teams
+Champions
+Qualifik.
+Qualifikationsrunde
+Champions
+Pokal
+Interleague
+Interleague
+Als Manager spielen
+<TEAM> hat Sie als neuer Trainer eingestellt! Das Team hofft, dass Sie Ihr Bestes tun! Viel Glück!
+Herzlichen Glückwunsch! Wir qualifizieren Sie sich für die nächste Champions
+Herzlichen Glückwunsch! Wir qualifizieren Sie sich für die nächste Interleague
+Warten Sie mal...
+Files
+verkaufen
+Status
+WOLLEN SIE RAUSGEHEN?
+Kostenloser Transfer
+Der Spieler wird frei, ein anderes Team sofort zu finden sein!
+Finanzen: <DATA>K
+Erfolgquote: <DATA>%
+Wählen Sie Ihr Team
+Speicher voll
+Ein Update des Spiels ist verfügbar! Klicken Sie auf den Link unten, um die neue Version des Soccer Player Manager 2016 herunterzuladen!
+Dieses Update ist erforderlich, die aktuelle Version wird nicht mehr unterstützt!
+Fahren Sie ohne Aktualisierung fort
+
+<fine testi di gioco>

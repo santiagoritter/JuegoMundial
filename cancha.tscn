@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://bijpb8qf1303e"]
+
+[ext_resource type="Texture2D" uid="uid://brc4uvivod0yk" path="res://TSPM2016_linux_v2025_1/data/1.png" id="1_1iti0"]
+
+[node name="Cancha" type="Node2D" unique_id=2079774693]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1841183735]
+position = Vector2(-9, 18)
+texture = ExtResource("1_1iti0")

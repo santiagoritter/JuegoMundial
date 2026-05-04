@@ -1,0 +1,507 @@
+THE SOCCER PLAYER MANAGER
+GOA
+DEF
+MIL
+ATT
+Gardien
+Défenseur
+Milieu
+Attaquant
+Sem.
+Gardiens
+Defense
+Milieu
+Attaque
+Tableaux
+Résultats
+Matches
+Buteurs
+PTS
+J
+G
+N
+P
+BP
+BC
+résultat
+rapide
+JOUER!
+Div
+1
+2
+3
+4
+FORCES:
+Gardiens
+Défense
+Milieu
+Attaque
+ENTR. INDIV.
+TACTIQUE
+REPOS
+ENTR. SUPPL.
+Achats de joueurs
+Salaires
+Nouveaux contrats
+Interêts
+Autres charges
+Vente de joueurs
+Recettes de matches
+Recettes de Coupe
+Sponsors
+Autres recettes
+Total
+Budget courant
+Limite de crédit
+Total disponible
+Achats de joueurs
+Vente de joueurs
+Possession balle
+Total tirs
+Tirs au but
+Coups de coin
+Fautes subies
+Cartons jaunes
+Cartons rouges
+Gardien
+Kit 1
+Kit 2
+Kit 3
+CHARGER PARTIE
+SAUVER PARTIE
+CHARGER EQUIPES
+SAUVER EQUIPES
+CHARGER TACTIQUES
+SAUVER TACTIQUES
+SELECT TACTIQUE
+Nom fichier
+Administration
+Les dirigeants sont ravis!
+Bon travail, continuez!
+Les dirigeants sont contents!
+Les dirigeants sont joyeux!
+Les dirigeants sont satisfaits, mais attendent mieux...
+Les dirigeants sont mecontents...
+On attend du changement...
+Les dirigeants pensent que la situation est délicate...
+On parle beaucoup d'un nouvel entraineur...
+Vous avez toute notre confiance!
+An/Sem
+EQUIPE
+Entraineur-Joueur
+OK
+Annuler
+SUPPRIMER
+Vous utilisez déjà cette tactique!
+Une pause est bienvenue!
+Un seul changement tactique par semaine!
+Nous ne pouvons pas dépenser autant!
+Pas plus de 24 joueurs!
+Vous voulez acheter votre propre joueur?
+Seulement 2 achats de joueurs par semaine.
+Quoi? Nous sommes deja éliminés!
+L'aventure en coupe est déjà finie...
+Dommage de manquer les demi-finales!
+Nous perdons en demi-finale...
+Une défaite en finale reste un bon résultat!
+En route pour le tour suivant!
+Bravo, nous passons le second tour!
+Youhou! En quarts de finale!
+Excellent! Plus qu'un tour avant la finale!
+On est en finale, on est en finale!
+La COUPE est a NOUS !!!
+VOUS ETES VIRE !
+Malheureusement nous devons nous expliquer!
+<TEAM> veut vous faire une offre pour <GIOC>
+Hooligans à <TEAM>! <DATA> K d'amende!
+Contrat sponsoring de <DATA>K pour <TEAM>!
+Nous sommes promus en <DATA>! Limite de crédit <DATA2> K!
+Nous sommes relegues en <DATA>! Limite de crédit <DATA2> K!
+Un peu de patience...
+Les Equipes
+Load
+Save
+OK
+Ligue - Sem <DATA>
+<GIOC>, un junior du club intègre l'équipe!
+Equipe
+Ligue
+Coupe
+Club
+Coach
+Transferts
+Tactique
+Match
+Options
+Nouv. Saison
+Coupes
+Finales
+1/2 Finales
+1/4 de Finales
+PALMARES DU CLUB
+Ann.  Lig Pos  J  V  N  D  BP BC  PT
+Finances
++
+-
+Semaine dern.
+Cette semaine
+Statistiques du manager
+Taux de réussite:
+Abandonner!
+Quitter l'équipe de <TEAM>?
+OUI!
+NON!
+Nous sommes sur un nuage!
+Le moral est au top!
+Aucun problème a signaler!
+Le moral est très bon.
+Les joueurs commencent à douter...
+La dépression nous guette...
+Le COACH
+EntraÎnement
+Joueur              Pos   Nouv.
+Changer:
+Quitter
+Changer Tactique
+Liste des transferts
++
+-
+Joueur           Age Equipe         Div
+OK
+Hmmm ...
+Non merci!
+Joueurs:
+1er tour
+2e tour
+3e tour
+Quart-finales
+Demi-finales
+Finale
+Finales
+La COUPE
+Quart-finales
+Demi-finales
+Finale
+app
+tab
+VS
+Rapide
+Voir
+Préparation...
+domicile VS <TEAM>
+extérieur VS <TEAM>
+contre <TEAM>
+Position
+Age
+Taille
+Poids
+Vitesse
+Agilite
+Endurance
+Résistance
+Agressivité
+Moral
+Passes
+Shoot
+Tackle
+Conserv.
+Bas
+Mécontent
+OK
+Bon
+Super
+Extra
+Matches
+Buts
+Moy.
+Cou
+1
+2
+3
+4
+Infos Joueur
+Nom
+cm
+kg
+Forces
+PRIX
+Disponible
+ACHETER
+Palmarès
+Pos.
+Age
+Contrat
+Valeur
+Forme
+Discipline
+Statut
+Refuser transfert
+Mettre en vente
+Retirer des transferts
+Statut du joueur
+Ce joueur a 1 carton jaune
+Ce joueur a <DATA> cartons jaunes
+Suspendu pour 1 semaine
+Suspendu pour <DATA> semaines
+Blessé pour <DATA>
+Transferts
+En transfert depuis <DATA>
+Réclame un transfert
+Réclame un transfert depuis <DATA>
+Prolonger contrat
+années
+NON!
+Retraite joueur!
+OK pour STOP, ou ici pour annuler!
+Equipe
+Buts  Joueur             Equipe
+Remake du célèbre jeu produit
+par Dino Dini & Steve Screech en 1990
+ce jeu est une reproduction,
+très fidèle du jeu original,
+avec l'ajout de nouvelles options:
+chaque equipe a son propre style,
+terrains variés, ralentis,
+et pleins d'autres ajouts...!
+Pour les mise a jour, suivez nous sur:
+JOUER!
+VENDRE
+ACHETER
+OFFRE
+PRIX
+Nom
+Pos.
+Age
+Habileté
+Disponible
+ACHETER
+Annuler
+Accepte
+l'offre
+Contre
+offre
+SORTIE
+B
+S
+R
+T
+C
+Joueur              Age Pos.  No Statut
+Nom tactique:
+Joueur              Pos  No
+EQUIPE INCOMPLETE!
+CONTINUER QUAND MEME?
+OUI
+NON
+Feuille de Match
+une semaine
+semaines
+1 mois
+plus d'un mois
+plus de <DATA> mois
+fautes subies
+Tirs au but
+Total tirs
+possession
+est suspendu
+est blesse!
+<GIOC> a purgé sa suspension
+<GIOC> est rétabli de sa blessure
+<GIOC> réclame un transfert pour faire avancer sa carrière.
+Semaine
+Année
+P
+S
+A
+E
+Changement
+TIRS AU BUT
+T
+PR
+son ON
+son OFF
+Changement
+Tactique
+mesh
+changement
+Tactique changée
+OK
+Touche
+5 mètres
+Corner
+GOAL
+Palmarès du Club
+Finances
+Evaluation des dirigeants
+OK
+Le CLUB
+OPTIONS
+Voir les résultats des autres matches
+Sauvegarder dans mémoire interne
+Sauvegarder dans media externe
+MATCH Plein-ecran Automatique
+Sauvegarder
+ceci est la version démo! Pour sauvegarder votre carrière et voir les ralentis, chargez la version WINDOWS/MAC/ANDROID:
+continuer
+quitter
+Italiens
+Anglais
+Choix des noms
+Nouvelle partie
+Charger partie
+Partie Demo
+Année
+Equipe
+Entr./Joueur
+Age
+Position
+JEU EN POSTE
+JEU EN EQUIPE
+Version pour Android
+L'application peut accéder à un support externe. Cliquez sur "Oui" pour créer un dossier appelé "<FOLDER>" où vous pouvez enregistrer tous les fichiers. Cliquez sur "Non" pour enregistrer les fichiers dans la mémoire interne.
+-
+-
+-
+-
+-
+-
+CONTINUER
+Mémoire interne
+Support externe
+Choisir le support sur
+sauvegarder données de jeu
+Nouvelle Version FLASH
+Nouvelles fonctionnalités dans la version Flash
+La nouvelle version de Flash permet maintenant
+sauver la carrière, de tactiques et de replay.
+Dans la version complète, vous pouvez également
+modifier les noms et les maillots de joueurs.
+Pour profiter de toutes les options téléchargez
+les versions WINDOWS/MAC/LINUX/ANDROID
+CONTINUE
+Ceci est une version beta, si vous trouvez des erreurs dans la traduction francaise contactez nous sur:
+Chacun est le bienvenu pour nous aider sur ce projet, toute suggestion ou rapport de bug peut nous être soumis sur nos comptes de réseaux sociaux!!
+Partie Demo Arcade
+Buteur:
+R
+PENALTY!
+Faute <GIOC>
+Carton JAUNE <GIOC>
+EXPULSION <GIOC>
+Blessure <GIOC>
+CHARGER REPLAY
+SAUVER REPLAY
+VOIR REPLAY'S
+Coup franc - distance:
+HTML5 Version
+The HTML5 version has many limitations.
+Sortie:
+Entrée:
+Hommage au célèbre jeu créé par Dino Dini en 1990. Ce jeu reproduit le graphisme, les sons et la jouabilite du Commodore Amiga. Aucun des développeurs du jeu original n'est impliqué dans ce projet. Pour suivre les projets de jeux de Dino Dini rendez vous sur: www.twitter.com/dndn1011
+Ce remake comprend de nouvelles fonctionnalités et options par rapports aux versions originales des 90's de Kick Off 2 & Player Manager. Pour les mise à jour, suivez nous sur:
+1er
+2e
+3e
+4e
+5e
+6e
+7e
+8e
+9e
+10e
+11e
+12e
+13e
+14e
+15e
+16e
+17e
+18e
+19e
+20e
+21e
+22e
+---
+Contrôle de balle
+Facile
+Normal
+Difficile
+Le conseil d'administration est ravi!
+Bon travail, continuez ainsi!
+Le conseil d'administration est enchanté!
+Le conseil d'administration est heureux!
+Le conseil d'administration est satisfait, mais apprécierait de l'amélioration!
+Le conseil d'administration est mécontent!
+Le conseil d'administration est inquiet. Les choses feraient bien de s'améliorer!
+Le conseil d'administration est très préoccupé!
+Le conseil d'administration estime que la situation actuelle est une honte!
+Le conseil d'administration pense que, dans les circonstances actuelles, votre position est des plus précaire!
+Vous avez toute la confiance du conseil d'administration!
+Nous sommes au septième ciel. Le moral est magnifique!
+Absolument aucun problème de confiance ici Coach!
+Le moral est très bon!
+Le moral est bon!
+Le moral est correct!
+Le doute commence à apparaître chez certains joueurs!
+Nous sommes loin de nos meilleures performances!
+La dépression s'est installée chez les gars!
+J'entends beaucoup de murmures inquiétants dans les vestiaires!
+Le moral touche le fond!
+Il y a des bagarres entre nos joueurs!
+Sélectionnez options démarrage
+Niveau
+FACILE
+Vous êtes un joueur âgé de 23 à 24 ans, vous avez une équipe gagnante avec un budget riche pour acheter de grands joueurs.
+NORMAL
+Vous êtes un joueur âgé de 28 à 29 ans, votre équipe est bonne, mais doit être amélioré et le besoin de nouveaux joueurs.
+DUR
+Vous êtes un vieux joueur de 33 à 34 ans, essayez d'éviter la relégation de votre équipe, mais vos finances êtes mauvais.
+Sélectionnez Championnat
+Modifier noms des joueurs
+CHARGER noms des joueurs
+SAUVER Noms du Joueur
+Un jeu gratuit de gestion de football inspiré par les jeux Anco: Kick Off 2 et lecteur Manger.
+Le Soccer Player Manager 2016 du code source est 100% travail originale. Fait par "Kick Off World" membres de la communauté.
+Ce jeu rétro reproduit les graphiques 2D Commodore Amiga créée par Steve Screech, avec de haut en bas champs pleine grandeur et de jeu rapide.
+Le soccer Player Manager 2016 est le développement continu et il sera mis à jour régulièrement, vérifier les nouvelles mises à jour sur nos activités sociales, suivez-nous sur:
+Nouveau nom
+Félicitations!! Nous avons gagné le championnat!!
+CHERCHER!
+Le jeu est encore en version bêta: tous les formats de sauvetage sont sujets à changement et peut se avérer incompatible avec la libération prochaine!!
+Invert PAD
+fichier non compatibl
+eVitesse de jeu
+-NO CONT-
+Europe
+Asie Océanie
+Afrique
+Amérique du Nord
+Amérique du Sud
+Equipes supplémentaires
+Champions
+qualific.
+qualification
+de Champions
+de Coupe
+Interleague
+de Interleague
+JEU EN MANAGER
+<TEAM> vous a engagé comme nouvel entraîneur ! L'équipe espère que vous faites de votre mieux ! Bonne chance!
+Félicitations ! On se qualifie pour la prochaine Coupe des Champions!
+Félicitations ! On se qualifie pour la prochaine Coupe des Interleague!
+S'il vous plaît, attendez...
+Files
+vendre
+statut
+Vous voulez quitter le jeu?
+Transfert gratuit
+Le joueur sera libre de trouver une autre équipe immédiatement!
+Finances: <DATA>K
+Succès: <DATA>%
+Choisissez votre équipe
+Mémoire pleine
+Une mise à jour du jeu est disponible! Cliquez sur le lien ci-dessous pour télécharger la nouvelle version du Soccer Player Manager 2016!
+Cette mise à jour est nécessaire, la version actuelle n'est plus prise en charge!
+Continuez sans mettre à jour
+
+<fine testi di gioco>

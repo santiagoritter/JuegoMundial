@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://1mwrleu72xa5"]
+
+[ext_resource type="PackedScene" uid="uid://bijpb8qf1303e" path="res://cancha.tscn" id="1_vvh5c"]
+[ext_resource type="PackedScene" uid="uid://dh3i3sk12ide8" path="res://player.tscn" id="2_28aoi"]
+[ext_resource type="PackedScene" uid="uid://cnkq1ut0btec8" path="res://pelota.tscn" id="3_jnlp7"]
+[ext_resource type="Script" uid="uid://efgwe4pahr4x" path="res://area_2d.gd" id="4_28aoi"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_vvh5c"]
+size = Vector2(96, 25)
+
+[node name="Root" type="Node2D" unique_id=1157888131]
+
+[node name="Cancha" parent="." unique_id=2079774693 instance=ExtResource("1_vvh5c")]
+
+[node name="Player" parent="." unique_id=1799539519 instance=ExtResource("2_28aoi")]
+
+[node name="Pelota" parent="." unique_id=1152280266 instance=ExtResource("3_jnlp7")]
+
+[node name="Arco" type="Node2D" parent="." unique_id=394746536]
+position = Vector2(-17, -694)
+
+[node name="Area2D" type="Area2D" parent="Arco" unique_id=6830516]
+position = Vector2(-1, 5)
+script = ExtResource("4_28aoi")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Arco/Area2D" unique_id=25951790]
+position = Vector2(1, -9.5)
+shape = SubResource("RectangleShape2D_vvh5c")
