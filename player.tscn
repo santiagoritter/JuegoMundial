@@ -195,6 +195,7 @@ radius = 23.0
 height = 56.0
 
 [node name="Player" type="Node2D" unique_id=1799539519]
+z_index = 8
 
 [node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=1064555827]
 script = ExtResource("1_onrkg")

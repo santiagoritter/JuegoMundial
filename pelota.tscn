@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://cnkq1ut0btec8"]
 
 [ext_resource type="Script" uid="uid://gif51pjhj4v6" path="res://Pelota.gd" id="1_0okw3"]
+[ext_resource type="Texture2D" uid="uid://bmio5esx01nbm" path="res://TSPM2016_linux_v2025_1/data/ballombra.png" id="2_mwsff"]
 [ext_resource type="Texture2D" uid="uid://chuo0vt7a6a5o" path="res://TSPM2016_linux_v2025_1/data/ball1.png" id="2_p7cd6"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ynlg5"]
@@ -67,6 +68,10 @@ region = Rect2(560, 0, 40, 40)
 atlas = ExtResource("2_p7cd6")
 region = Rect2(600, 0, 40, 40)
 
+[sub_resource type="AtlasTexture" id="AtlasTexture_p7cd6"]
+atlas = ExtResource("2_p7cd6")
+region = Rect2(0, 0, 40, 40)
+
 [sub_resource type="SpriteFrames" id="SpriteFrames_f6va0"]
 animations = [{
 "frames": [{
@@ -119,8 +124,16 @@ animations = [{
 "texture": SubResource("AtlasTexture_sc48t")
 }],
 "loop": true,
-"name": &"default",
+"name": &"Movm",
 "speed": 9.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_p7cd6")
+}],
+"loop": true,
+"name": &"Quieto",
+"speed": 5.0
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_l8v81"]
@@ -131,11 +144,17 @@ radius = 9.055386
 [node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=671477463]
 script = ExtResource("1_0okw3")
 
+[node name="Sprite2D" type="Sprite2D" parent="CharacterBody2D" unique_id=999363548]
+position = Vector2(4, -2)
+scale = Vector2(4.625, 4.4375)
+texture = ExtResource("2_mwsff")
+
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D" unique_id=968677119]
 position = Vector2(4.7683716e-07, 2.3841858e-07)
 scale = Vector2(0.52500004, 0.45625)
 sprite_frames = SubResource("SpriteFrames_f6va0")
-frame_progress = 0.3692488
+animation = &"Movm"
+autoplay = "Movm"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D" unique_id=1642572546]
 shape = SubResource("CircleShape2D_l8v81")

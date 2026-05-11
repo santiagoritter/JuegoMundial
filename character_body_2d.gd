@@ -2,7 +2,7 @@ extends CharacterBody2D
 
 var velocidad = 200.0
 var fuerza_pateo = 500.0
-var fuerza_pase = 300.0
+var fuerza_pase = 350.0
 var esta_pateando = false
 var tiene_pelota = false
 var pelota = null
@@ -12,6 +12,7 @@ var direccion_mirada = Vector2(1, 0)
 
 func _ready():
 	global_position = pos_inicial
+	pelota = get_parent().get_node("Pelota")
 
 func _physics_process(delta):
 	if celebrando:
@@ -51,7 +52,6 @@ func _physics_process(delta):
 			pelota.golpear(direccion_mirada, fuerza)
 			
 			tiene_pelota = false
-			pelota = null
 			esta_pateando = true
 			$AnimatedSprite2D.play("Patear")
 			await $AnimatedSprite2D.animation_finished
@@ -72,7 +72,7 @@ func _physics_process(delta):
 			else:
 				$AnimatedSprite2D.play("Run-sinPelota")
 		
-	var vel_actual = 150.0 if tiene_pelota else velocidad
+	var vel_actual = 130.0 if tiene_pelota else velocidad
 	velocity.y = vy * vel_actual
 	velocity.x = vx * vel_actual
 	
@@ -85,8 +85,14 @@ func _physics_process(delta):
 			
 			if objeto.has_method("golpear"):
 				tiene_pelota = true
-				pelota = objeto
+				pelota = objeto 
 				pelota.get_node("CollisionShape2D").set_deferred("disabled", true)
+				
+			elif "tiene_pelota" in objeto and objeto.tiene_pelota == true:
+				tiene_pelota = true
+				pelota = objeto.pelota
+				objeto.tiene_pelota = false
+				objeto.pelota = null
 
 func celebrar_gol():
 	celebrando = true

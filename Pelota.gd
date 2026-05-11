@@ -23,3 +23,4 @@ func _physics_process(delta):
 
 func golpear(direccion, fuerza):
 	velocity = direccion * fuerza
+	

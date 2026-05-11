@@ -1,0 +1,58 @@
+[gd_scene format=3 uid="uid://daygx5qkweojo"]
+
+[ext_resource type="Script" uid="uid://cock2lb7keu3m" path="res://enemigo.gd" id="1_a5tj2"]
+[ext_resource type="Texture2D" uid="uid://ckc2d0ggxh721" path="res://soccer_player_poses(1).png" id="1_becj5"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_a5tj2"]
+atlas = ExtResource("1_becj5")
+region = Rect2(80, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_moxti"]
+atlas = ExtResource("1_becj5")
+region = Rect2(120, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bnx68"]
+atlas = ExtResource("1_becj5")
+region = Rect2(160, 0, 40, 40)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_j8qs0"]
+atlas = ExtResource("1_becj5")
+region = Rect2(120, 80, 40, 40)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_57rph"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a5tj2")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_moxti")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bnx68")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_j8qs0")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_db8mt"]
+radius = 23.0
+height = 56.0
+
+[node name="Enemigo" type="Node2D" unique_id=1245410138]
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=1121446799]
+script = ExtResource("1_a5tj2")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D" unique_id=1470027160]
+position = Vector2(1, -1)
+scale = Vector2(2.375, 1.875)
+sprite_frames = SubResource("SpriteFrames_57rph")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D" unique_id=2108637482]
+position = Vector2(1, 0)
+shape = SubResource("CapsuleShape2D_db8mt")
